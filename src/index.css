@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Open Sans Regular';
+    src: url('./assets/fonts/Open_Sans/OpenSans-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'Open Sans Bold';
+    src: url('./assets/fonts/Open_Sans/OpenSans-Bold.ttf');
+}
+
+
+@font-face {
+    font-family: 'Open Sans Light';
+    src: url('./assets/fonts/Open_Sans/OpenSans-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Trislan';
+    src: url('./assets/fonts/Trislan/Trislan.ttf')
+}
+
+:root {
+    background-color: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+}
