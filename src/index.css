@@ -19,6 +19,16 @@
     src: url('./assets/fonts/Trislan/Trislan.ttf')
 }
 
+@font-face {
+    font-family: 'Raleway Regular';
+    src: url('./assets/fonts/Raleway/Raleway-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Raleway Bold';
+    src: url('./assets/fonts/Raleway/Raleway-Bold.ttf');
+}
+
 :root {
     background-color: whitesmoke;
     font-family: 'Open Sans', sans-serif;
